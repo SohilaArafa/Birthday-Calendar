@@ -1,2 +1,3 @@
 # Birthday-Calendar
-React-JS
+React- Exploring useState
+JavaScript
